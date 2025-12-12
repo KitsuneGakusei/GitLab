@@ -1,0 +1,11 @@
+body {
+  background-color: skyblue;
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #444;
+  padding-left: 10px;
+  margin-left: 20px;
+  color: #1f1f1f; /* slightly darker for readability */
+}
